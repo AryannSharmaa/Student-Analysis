@@ -1,0 +1,7 @@
+setup.py
+src/__init__.py
+studentanalysis.egg-info/PKG-INFO
+studentanalysis.egg-info/SOURCES.txt
+studentanalysis.egg-info/dependency_links.txt
+studentanalysis.egg-info/requires.txt
+studentanalysis.egg-info/top_level.txt
